@@ -11,3 +11,5 @@
 
  ## Procedimento para clonar o repositório
     git clone https://github.com/willHub99/bloom.git
+
+ - Alterar INPUT_IMAGE  =  'nome.extensão' para realizar testes com outras imagens
